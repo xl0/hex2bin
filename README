@@ -1,0 +1,10 @@
+
+
+Why? Why would I need to write it?
+
+If you know an easy way to convert up to 64-bit hex numbers into binary, grouping the output by 8 bits, I'm all ears. For me, it was faster to hack it up.
+
+$ ./hex2bin 0x410fd82112
+410fd82112
+00000000 00000000 00000000 01000001 00001111 11011000 00100001 00010010
+
